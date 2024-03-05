@@ -1,6 +1,6 @@
 Welcome to my GitHub profile! I'm passionate about Data analytics.
 
-- 👋 Hi, I'm Rakshayani Thyagu A.K.A @June
+- 👋 Hi, I'm Rakshayani Thyagu A.K.A 'June'
 - 🔍 Delving into analytics, currently learning ML, and exploring various NLP use cases.
 - 🤝 Open to collaborations in EDA using Jupyter, NLP, and MLOps.
 - 💬 Let's dive into EDA, Python, ML, and unravel data narratives.
